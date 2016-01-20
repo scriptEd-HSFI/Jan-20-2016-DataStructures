@@ -1,6 +1,6 @@
- function randomNumber () {
-	var largestNum = 69; 
-	return Math.ceil(Math.random()*largestNum); 
+function randomNumber () {
+  var largestNum = 69; 
+  return Math.ceil(Math.random()*largestNum); 
 }
 
 function generatePowerBallNumbers() {
